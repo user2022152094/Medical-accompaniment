@@ -18,9 +18,11 @@
 - 订单查询
 <img width="960" height="820" alt="a3a7f71430fd3ac402d8517949d50656" src="https://github.com/user-attachments/assets/eb0e2a64-1732-487e-b65d-6a61d5d7f332" />
 
-- ## 📁 项目结构
-陪诊系统
-<pre> ## 📁 项目结构 ```bash 陪诊系统 ├── PC # 后台管理端 ├── pzH5 # 移动端 ``` </pre>
+## 📁 项目结构
+
+陪诊系统  
+├── PC        # 后台管理端  
+├── pzH5      # 移动端  
 
 - ## 项目运行方式 ⭐
 ### 1. 克隆项目
